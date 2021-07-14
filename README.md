@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Avsco
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning VueJS as forntend and NodeJS as backend
